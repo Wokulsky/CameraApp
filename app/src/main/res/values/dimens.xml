@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gallery_hotizontal_margin">0dp</dimen>
+    <dimen name="gallery_vertical_margin">0dp</dimen>
+
+</resources>
